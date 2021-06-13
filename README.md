@@ -191,7 +191,7 @@ Sollte dein Mod Menu oder nicht angezeigt werden oder es fehlen bestimme Texture
 (Informationen im Voraus)
 
 Normale „GTA Online“ oder „Story Mode“ Menus können nicht in FiveM benutz werden.
-Um sogenannte LUA's zu laden, braucht du einen man einen Executer, du solltest es vermeiden, Kostenlose zu verwenden, da diese meist Viren oder andere Schadsoftware beinhalten und sowieso nicht funktionieren.
+Um sogenannte LUA's zu laden, braucht man einen Executer, du solltest es vermeiden, Kostenlose zu verwenden, da diese meist Viren oder andere Schadsoftware beinhalten und sowieso nicht funktionieren.
 
 
 ### Liste Für Executer:
@@ -216,10 +216,6 @@ Rage Cheats:
 ### Injector's für CS:GO:
 
 Wir empfehlen, das man einen Loder benutzt da diese meist einen Integrieren VAC-Bypasser haben, mit dem man auch Cracked cheats wie Onetap benutzen kann, ohne direkt gebannt zu werden.
-
-Injectors /  Loader:
-
-Wir empfehlen das man einen Loder benutzt da diese meist einen Integretieren VAC-Bypasser haben mit dem man auch Cracked cheats wie Onetap benutzen kann ohne direkt gebannt zu werden.
 
 ### Injector und Loader Liste:
 
