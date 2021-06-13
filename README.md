@@ -248,8 +248,8 @@ Du solltest es beim Modden vermeiden, Money Drops für dich oder andere zu mache
 
 Um es kurz zu sagen, solltest du es vermeiden, dass andere Spieler in deiner Lobby sehen wie die Moddest.
 
-
-## Made by   
+##
+Made by   
 - Barbiehunter [KLL]#1337   
 - .Cat#1000                 
 - Kamfkeks#0001           
