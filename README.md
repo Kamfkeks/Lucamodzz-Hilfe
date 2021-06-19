@@ -191,7 +191,7 @@ Sollte dein Mod Menu oder nicht angezeigt werden oder es fehlen bestimme Texture
 (Informationen im Voraus)
 
 Normale „GTA Online“ oder „Story Mode“ Menus können nicht in FiveM benutz werden.
-Um sogenannte LUA's zu laden, braucht man einen Executer, du solltest es vermeiden, Kostenlose zu verwenden, da diese meist Viren oder andere Schadsoftware beinhalten und sowieso nicht funktionieren.
+Um sogenannte lua menus's zu laden, braucht man einen Executer, du solltest es vermeiden, Kostenlose zu verwenden, da diese meist Viren oder andere Schadsoftware beinhalten und sowieso nicht funktionieren.
 
 
 ### Liste Für Executer:
