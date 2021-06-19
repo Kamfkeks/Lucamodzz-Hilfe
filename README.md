@@ -196,9 +196,10 @@ Um sogenannte LUA's zu laden, braucht man einen Executer, du solltest es vermeid
 
 ### Liste Für Executer:
 
-- [Eulen Executer](https://www.eulencheats.com) + Cheat (100€)
+- [Eulen Executer + Cheat](https://www.eulencheats.com) (100€)
 - [RedEngine](https://redengine.eu) (40€)
 - [Hammafia](https://hammafia.co) (35€)
+- Desudo (20€)
 
 
 
