@@ -87,9 +87,9 @@ Jetzt musst du nur noch bei „Process„ GTA auswählen und dann auf Inject dr�
 
 ##
 ### Download im Browser geblockt:
-Sollte dies der Fall sein, liegt es entweder an einem Antivirenprogramm oder am Browser selbst.
+Sollte dies der Fall sein, liegt es entweder an deinem Antivirenprogramm oder an deinem Browser selbst.
 
-- Aktivieren Programm Deaktivieren
+- Antivieren Programm Deaktivieren
 - Im Browser auf die drei Punkte oder Stricke gehen
 - Auf Downloads klicken
 - Auf schädliche Datei trotzdem beibehalten klicken.
