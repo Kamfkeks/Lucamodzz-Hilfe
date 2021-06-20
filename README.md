@@ -45,8 +45,7 @@ Screenshot sehen kannst, folgende Inhalte:
 - [Cherax](https://cherax.vip) (25€)
 
 #### Menu für Money/Geld: 
-- Illusion (20€) 
-- Delusion (20€)
+- Gerade sind die Geld methoden selbst in den Paid Menus nicht wirklich sicher ihr müsst euch wohl gedulden, falls ihr Geld braucht.
 
 #### Bestes Menu für alles: 
 - [2Take1](https://2take1.menu) (15-120€)
