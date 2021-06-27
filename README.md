@@ -205,7 +205,7 @@ Um sogenannte lua menus's zu laden, braucht man einen Executer, du solltest es v
 ### CS:GO Cheating:
 
 Legit Cheats: 
-- [Osiris](http://lucamodzz.xyz/CS)
+- [Osiris](https://www.unknowncheats.me/forum/cs-go-releases/347275-osiris.html)
 - [Project Infinity](https://project-infinity.cloud)
 
 Rage Cheats: 
