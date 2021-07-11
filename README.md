@@ -43,6 +43,7 @@ Screenshot sehen kannst, folgende Inhalte:
 
 #### Menu für Protections: 
 - [Cherax](https://cherax.vip) (25€)
+- [Midnight](https://midnight.im/)(22€)
 
 #### Menu für Money/Geld: 
 - Gerade sind die Geld methoden selbst in den Paid Menus nicht wirklich sicher ihr müsst euch wohl gedulden, falls ihr Geld braucht.
