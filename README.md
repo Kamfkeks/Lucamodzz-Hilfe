@@ -33,17 +33,22 @@ Screenshot sehen kannst, folgende Inhalte:
 ### Welche Mod Menu's sind gut für welche Kategorie?
 
 #### Free Menu's
-- [Kiddions](https://lucamodzz.xyz) (Free)
-- [Atom](https://lucamodzz.xyz) (Free)
- 
+- [Kiddions](https://hackermans.xyz) (Free)
+- [Segs](https://hackermans.xyz) (Free)
+- [Gravity](https://hackermans.xyz) (Free)
+- [Space](https://hackermans.xyz) (Free)
+
+#### Menus für einen kleinen betrag
+- [XCheats](https://www.xcheats.co.uk) (10€)
+- [X-Force](https://xforce.menu) (15€)
+
 #### Menu's für Trolling: 
 - [X-Force](https://xforce.menu) (15€) 
 - [Phantom-X](https://phantom-x.info) (20-25€) 
-- [Impulse](https://impulse.one) (10-50€) -> Impulse ist Unstable und Buggy.
 
 #### Menu für Protections: 
 - [Cherax](https://cherax.vip) (25€)
-- [Midnight](https://midnight.im/)(22€)
+- [Midnight](https://midnight.im)(22€)
 
 #### Menu für Money/Geld: 
 - Gerade sind die Geld methoden selbst in den Paid Menus nicht wirklich sicher ihr müsst euch wohl gedulden, falls ihr Geld braucht.
@@ -229,11 +234,20 @@ Wir empfehlen, das man einen Loder benutzt da diese meist einen Integrieren VAC-
 ##
 ### Häufig gestellte Fragen:
 
-### Warum sagt mein Antivirenprogramm, dass das Mod Menu ein Virus ist?
+#### Wieso wird der Cheat oder das Mod Menu als Virus angesehen?
+#### Antivirusprogramme funktonieren so:
+Proaktive Virenscanner erkennen Malware nicht anhand von Signaturen, sondern untersuchen Programme nach bestimmten Merkmalen (Heuristik).
+Sie sind theoretisch in der Lage, neue unbekannte Viren alleine aufgrund Ihres Verhaltens zu erkennen.
+Allerdings haben heuristische Scanner unter Umständen eine erhöhte Quote an Fehlalarmen.
 
-Mod Menus verhalten sich wie Viren um sich in GTA Online zu Injecton. Aus diesem Grund werden die meisten unserer Menus als Virus erkannt, leider ist es für viele Programmierer zu schwer, dafür zu sorgen, dass es nicht als Virus erkannt wird.
+Quelle: [Security Insider](https://www.security-insider.de/was-sind-virenscanner-a-570942/)
 
-Alle Menus von [Lucamodzz](https://lucamodzz.xyz) sind keine Viren, sie verhalten sich aber wie welche.
+#### Wie funktionieren Cheats/ Mod Menus?
+Cheats und Mod Menus injecten sich in laufende Prozesse um interne Programmfunktionen zu Manipulieren/ auszuführen.
+Dazu können sie unter umständen auch auf den Arbeitsspeicher der Anwendung zugreifen und diesen auslesen/ schreiben.
+
+#### Ergebnis:
+Damit Cheats und Mod Menus funktionieren, führen sie gewisse Verhaltensmuster aus die auch von Vieren genutzt werden.
 
 ### Warum ist Kiddions eines der besten Free Menus?
 
@@ -244,9 +258,3 @@ Da Kiddions external läuft, nicht so wie andere Menüs, ist es so gut wie unmö
 Du solltest es beim Modden vermeiden, Money Drops für dich oder andere zu machen, auch solltest du nicht über die ganze Map fliegen, des Weiteren ist das Trollen von Leuten mit Godmode keine gute Idee.
 
 Um es kurz zu sagen, solltest du es vermeiden, dass andere Spieler in deiner Lobby sehen wie die Moddest.
-
-##
-### Made by   
-- Barbiehunter [KLL]#1337   
-- .Cat#1000                 
-- Kamfkeks#0001           
