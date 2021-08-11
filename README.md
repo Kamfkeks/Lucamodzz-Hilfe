@@ -211,11 +211,10 @@ Um sogenannte lua menus's zu laden, braucht man einen Executer, du solltest es v
 ### CS:GO Cheating:
 
 Legit Cheats: 
-- [Osiris](https://lucamodzz.xyz/CS)
 - [Project Infinity](https://project-infinity.cloud)
 
 Rage Cheats: 
-- [OneTap V3 Crack](http://lucamodzz.xyz/CS)
+- [OneTap V3 Crack](https://hackermans.xyz/CS)
 
 
 ##
@@ -227,7 +226,7 @@ Wir empfehlen, das man einen Loder benutzt da diese meist einen Integrieren VAC-
 
 - [HEXOGEN INJECTOR](https://cdn.discordapp.com/attachments/712619952527376410/853628031665700864/Hexogen_Injector_v1.2.rar)
 - [SazInjector](https://cdn.discordapp.com/attachments/712619952527376410/853628955004502016/SazInjector.rar)
-- [ExLoader](http://lucamodzz.xyz/CS)
+- [ExLoader](https://exloader.net)
 
 
 
